@@ -34,6 +34,8 @@ Actualmente cursando tercer año en Buenos Aires. Abierto a mi primera experienc
 
 **Visualización & Apps**
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
 **Visualización & Apps**
 
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
