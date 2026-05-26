@@ -80,9 +80,9 @@ Actualmente cursando tercer año en Buenos Aires. Abierto a mi primera experienc
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MedinaMarco&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F1A&title_color=7C3AED&icon_color=06B6D4&text_color=E2E8F0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MedinaMarco&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MedinaMarco&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F1A&title_color=7C3AED&text_color=E2E8F0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MedinaMarco&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
