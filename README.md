@@ -4,9 +4,6 @@
 
 ### Estudiante de Ciencia de Datos · Buenos Aires, Argentina
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marco-medina-castro)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcomedinacastro2003@gmail.com)
-
 </div>
 
 ---
@@ -76,16 +73,10 @@ Actualmente cursando tercer año en Buenos Aires. Abierto a mi primera experienc
 
 ---
 
-## 📊 Stats
+## 📬 Contacto
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MedinaMarco&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MedinaMarco&layout=compact&theme=tokyonight&hide_border=true)
-
-
-</div>
+- 💼 LinkedIn: [Marco Medina](https://www.linkedin.com/in/marco-medina-castro-247374236/)
+- 📧 Mail: [marcomedinacastro2003@gmail.com](mailto:marcomedinacastro2003@gmail.com)
 
 ---
 
