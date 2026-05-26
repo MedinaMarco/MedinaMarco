@@ -24,6 +24,7 @@ Actualmente cursando tercer año en Buenos Aires. Abierto a mi primera experienc
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=flat-square&logo=swi-prolog&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 **Machine Learning & Data**
 
@@ -33,8 +34,11 @@ Actualmente cursando tercer año en Buenos Aires. Abierto a mi primera experienc
 
 **Visualización & Apps**
 
+**Visualización & Apps**
+
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **Herramientas**
@@ -67,10 +71,12 @@ Actualmente cursando tercer año en Buenos Aires. Abierto a mi primera experienc
 
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
-| [Modelos N-Gramas](https://github.com/MedinaMarco/Modelos-probabil-sticos-Basados-en-N-Gramas) | Modelos probabilísticos de lenguaje basados en N-Gramas | Python |
-| [Canalización](https://github.com/MedinaMarco/canalizacion) | Pipeline de procesamiento de datos | Python |
-| [Gramáticas Libres de Contexto](https://github.com/MedinaMarco/Gramaticas_libres_de_contexto) | Implementación de CFG y árboles de derivación | Prolog |
-
+| [Análisis Delitos Argentina](https://github.com/MedinaMarco/Analisis_Delitos_Argentina) | Análisis exploratorio de datos de delitos en Argentina | Python |
+| [Análisis Comercial](https://github.com/MedinaMarco/Analisis_Comercial) | Análisis de datos comerciales | Jupyter Notebook |
+| [Dashboard Introvertido/Extrovertido](https://github.com/MedinaMarco/Introvertido_extrovertido_dashboard-Marco-Medina) | Dashboard de visualización con R | R |
+| [Clasificador Bayesiano](https://github.com/MedinaMarco/Clasificador-Bayesiano-Medio-de-Comunicaci-n) | Clasificador Naive Bayes para medios de comunicación | Python |
+| [Modelos N-Gramas](https://github.com/MedinaMarco/Modelos-probabil-sticos-Basados-en-N-Gramas) | Modelos probabilísticos de lenguaje | Python |
+| [Algoritmo FOIL](https://github.com/MedinaMarco/Algoritmo_Foil-Marco_Medina) | Implementación del algoritmo FOIL de aprendizaje inductivo | Jupyter Notebook |
 ---
 
 ## 📬 Contacto
